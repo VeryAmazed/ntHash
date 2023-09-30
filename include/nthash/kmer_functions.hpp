@@ -1,7 +1,7 @@
 #pragma once
 
 #include "include/nthash/internal.hpp"
-#include "include/nthash/kmer_functions.hpp"
+#include "include/nthash/nthash.hpp"
 
 namespace {
 
