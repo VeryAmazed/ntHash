@@ -28,7 +28,7 @@ lib_dep = declare_dependency(
     include_directories: include_dirs,
 )
 
-install_headers('include/nthash/nthash.hpp', 'include/nthash/kmer_functions.hpp', install_dir: 'include/nthash')
+install_headers('include/nthash/nthash.hpp', 'include/nthash/kmer_functions.hpp', 'include/nthash/internal.hpp', install_dir: 'include/nthash')
 
 if get_option('buildtype') != 'release'
     executable(
