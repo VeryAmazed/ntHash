@@ -1,4 +1,4 @@
-#include "internal.hpp"
+#include "nthash/internal.hpp"
 #include "nthash/nthash.hpp"
 
 namespace {

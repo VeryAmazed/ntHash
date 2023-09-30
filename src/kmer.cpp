@@ -1,4 +1,4 @@
-#include "kmer_functions.hpp"
+#include "nthash/kmer_functions.hpp"
 
 namespace nthash {
 

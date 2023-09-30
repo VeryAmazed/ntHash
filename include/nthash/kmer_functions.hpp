@@ -1,7 +1,7 @@
 #pragma once
 
 #include "internal.hpp"
-#include "nthash/nthash.hpp"
+#include "nthash.hpp"
 
 namespace {
 
